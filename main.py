@@ -3,7 +3,7 @@ from aiogram.dispatcher.filters import Text
 from Translator import translate
 from random import randint
 
-API_TOKEN = "5001863279:AAHVwzQ3xxTSUU__vwPschAXbkj30cEwY2E"
+API_TOKEN = "Bot token"
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
 url1 = "https://t.me/matematika_patsha/248"
